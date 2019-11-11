@@ -9,7 +9,7 @@
         Title="StartWindow" Height="450" Width="800">
     <!--Objekt für Binding erzeugen-->
     <Window.DataContext>
-        <viewModel:StartWindowViewModel></viewModel:StartWindowViewModel>
+        <viewModel:StartWindowViewModel/>
     </Window.DataContext>
     <Grid>
         <Menu HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="792">
