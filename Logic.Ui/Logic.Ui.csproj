@@ -44,10 +44,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\StartWindowViewModel.cs" />
     <Compile Include="ViewModels\StatisticsWindowViewModel.cs" />
+    <Compile Include="Wrapper\CardWrapper.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Wrapper\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Business.Model\Business.Model.csproj">
       <Project>{70f7afeb-6413-4897-b119-c053f2e2a2f6}</Project>
