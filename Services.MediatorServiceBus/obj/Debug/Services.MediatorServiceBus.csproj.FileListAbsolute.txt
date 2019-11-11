@@ -1,0 +1,6 @@
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Services.MediatorServiceBus\bin\Debug\Services.MediatorServiceBus.dll
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Services.MediatorServiceBus\bin\Debug\Services.MediatorServiceBus.pdb
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Services.MediatorServiceBus\obj\Debug\Services.MediatorServiceBus.csprojAssemblyReference.cache
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Services.MediatorServiceBus\obj\Debug\Services.MediatorServiceBus.csproj.CoreCompileInputs.cache
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Services.MediatorServiceBus\obj\Debug\Services.MediatorServiceBus.dll
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Services.MediatorServiceBus\obj\Debug\Services.MediatorServiceBus.pdb

@@ -1,0 +1,27 @@
+﻿<Window x:Class="De.HsFlensburg.LernkartenApp060.Ui.Desktop.CardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:De.HsFlensburg.LernkartenApp060.Ui.Desktop"
+        mc:Ignorable="d"
+        Title="CardWindow" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="357" Margin="42,40,0,0" VerticalAlignment="Top" Width="717" Source="images/beispielbildBerge.jpg" Stretch="UniformToFill"/>
+        <Button Content="&lt;--" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="39"/>
+        <WrapPanel Height="33" Margin="622,2,10,0" VerticalAlignment="Top">
+            <Label Content="Level" VerticalAlignment="Top" Width="61" HorizontalAlignment="Left" FontSize="18" FontWeight="Bold"/>
+            <Label Content="Kategorie" VerticalAlignment="Top" Width="97" HorizontalAlignment="Left" FontSize="18" FontWeight="Bold" Height="33"/>
+        </WrapPanel>
+        <Button Content="Fertig?" HorizontalAlignment="Left" Height="45" Margin="635,352,0,0" VerticalAlignment="Top" Width="124"/>
+        <WrapPanel HorizontalAlignment="Left" Height="183" Margin="42,214,0,0" VerticalAlignment="Top" Width="289" Background="#FFC7C7C7">
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Frage:" VerticalAlignment="Top" Width="61" FontSize="18" FontWeight="Bold"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Beispielfragestellung" VerticalAlignment="Top" Width="173" FontSize="18"/>
+            <RadioButton Content="Antwort 1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="211" FontSize="16" Margin="10"/>
+            <RadioButton Content="Antwort 2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="211" FontSize="16" Margin="10"/>
+            <RadioButton Content="Antwort 3" HorizontalAlignment="Left" VerticalAlignment="Top" Width="211" FontSize="16" Margin="10"/>
+            <RadioButton Content="Antwort 4" HorizontalAlignment="Left" VerticalAlignment="Top" Width="211" FontSize="16" Margin="10"/>
+        </WrapPanel>
+
+    </Grid>
+</Window>

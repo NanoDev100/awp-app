@@ -1,0 +1,87 @@
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\bin\Debug\Ui.Desktop.exe.config
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\bin\Debug\Ui.Desktop.exe
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\bin\Debug\Ui.Desktop.pdb
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\obj\Debug\Ui.Desktop.csprojAssemblyReference.cache
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\obj\Debug\MainWindow.g.cs
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\obj\Debug\App.g.cs
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.cache
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.lref
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\obj\Debug\MainWindow.baml
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\obj\Debug\Ui.Desktop.g.resources
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\obj\Debug\Ui.Desktop.Properties.Resources.resources
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.GenerateResource.cache
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.CoreCompileInputs.cache
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\obj\Debug\Ui.Desktop.exe
+U:\Anwendungsprogrammierung\A02\LernkartenApp060\Ui.Desktop\obj\Debug\Ui.Desktop.pdb
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\bin\Debug\Ui.Desktop.exe.config
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\bin\Debug\Ui.Desktop.exe
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\bin\Debug\Ui.Desktop.pdb
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop.csprojAssemblyReference.cache
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\obj\Debug\MainWindow.g.cs
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\obj\Debug\App.g.cs
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.cache
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.lref
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\obj\Debug\MainWindow.baml
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop.g.resources
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\obj\Debug\De.HsFlensburg.LernkartenApp013.Ui.Desktop.Properties.Resources.resources
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.GenerateResource.cache
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.CoreCompileInputs.cache
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop.exe
+U:\Anwendungsprogrammierung\A02\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop.pdb
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\bin\Debug\Ui.Desktop.exe.config
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\bin\Debug\Ui.Desktop.exe
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\bin\Debug\Ui.Desktop.pdb
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop.csprojAssemblyReference.cache
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\obj\Debug\MainWindow.g.cs
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\obj\Debug\App.g.cs
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.cache
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.lref
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\obj\Debug\MainWindow.baml
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop.g.resources
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\obj\Debug\De.HsFlensburg.LernkartenApp013.Ui.Desktop.Properties.Resources.resources
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.GenerateResource.cache
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop.exe
+S:\OneDrive\Dokumente\Studium\3. Semester\Anwendungsprogrammierung\A03\LernkartenApp013\Ui.Desktop\obj\Debug\Ui.Desktop.pdb
+C:\Users\Julian D. Schreiber\Desktop\projekt\Ui.Desktop\obj\Debug\Ui.Desktop.csprojAssemblyReference.cache
+C:\Users\Julian D. Schreiber\Desktop\projekt\Ui.Desktop\obj\Debug\CardCollectionWindow.g.cs
+C:\Users\Julian D. Schreiber\Desktop\projekt\Ui.Desktop\obj\Debug\Learn.g.cs
+C:\Users\Julian D. Schreiber\Desktop\projekt\Ui.Desktop\obj\Debug\BearbeitenWindow.g.cs
+C:\Users\Julian D. Schreiber\Desktop\projekt\Ui.Desktop\obj\Debug\LearnCategory.g.cs
+C:\Users\Julian D. Schreiber\Desktop\projekt\Ui.Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\Julian D. Schreiber\Desktop\projekt\Ui.Desktop\obj\Debug\App.g.cs
+C:\Users\Julian D. Schreiber\Desktop\projekt\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.cache
+C:\Users\Julian D. Schreiber\Desktop\projekt\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.lref
+C:\Users\Julian D. Schreiber\Desktop\projekt\Ui.Desktop\obj\Debug\Ui.Desktop.exe
+C:\Users\Julian D. Schreiber\Desktop\projekt\Ui.Desktop\obj\Debug\Ui.Desktop.pdb
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\Ui.Desktop.csprojAssemblyReference.cache
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\CardWindow.g.cs
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\StartWindow.g.cs
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\StatisticsWindow.g.cs
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\CategoriesWindow.g.cs
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\SettingsWindow.g.cs
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\CardCollectionWindow.g.cs
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\LearnWindow.g.cs
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\EditWindow.g.cs
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\LearnCategoryWindow.g.cs
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\App.g.cs
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.cache
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\Ui.Desktop_MarkupCompile.lref
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\Ui.Desktop.exe
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\Ui.Desktop.pdb
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\bin\Debug\Ui.Desktop.exe.config
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\bin\Debug\Ui.Desktop.exe
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\bin\Debug\Ui.Desktop.pdb
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\CardWindow.baml
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\StartWindow.baml
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\StatisticsWindow.baml
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\CategoriesWindow.baml
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\SettingsWindow.baml
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\CardCollectionWindow.baml
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\LearnWindow.baml
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\EditWindow.baml
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\LearnCategoryWindow.baml
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\MainWindow.baml
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\Ui.Desktop.g.resources
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\De.HsFlensburg.LernkartenApp060.Ui.Desktop.Properties.Resources.resources
+C:\Users\Mattis\Desktop\Aufgabe-4-1-060\Solution\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.GenerateResource.cache

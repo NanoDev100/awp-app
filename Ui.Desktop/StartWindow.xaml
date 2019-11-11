@@ -1,0 +1,72 @@
+﻿<Window x:Class="De.HsFlensburg.LernkartenApp060.Ui.Desktop.StartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModel="clr-namespace:De.HsFlensburg.LernkartenApp060.Logic.Ui.ViewModels;assembly=Logic.Ui"
+        xmlns:local="clr-namespace:De.HsFlensburg.LernkartenApp060.Ui.Desktop"
+        mc:Ignorable="d"
+        Title="StartWindow" Height="450" Width="800">
+    <!--Objekt für Binding erzeugen-->
+    <Window.DataContext>
+        <viewModel:StartWindowViewModel></viewModel:StartWindowViewModel>
+    </Window.DataContext>
+    <Grid>
+        <Menu HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="792">
+
+            <MenuItem Header="Speichern"/>
+            <MenuItem HorizontalAlignment="Right" Header="Einstellungen" Height="25"/>
+        </Menu>
+
+        <TextBlock HorizontalAlignment="Left" Margin="10,25,0,0" TextWrapping="Wrap" Text="Startseite" VerticalAlignment="Top" Width="95" FontWeight="Bold" FontSize="20" RenderTransformOrigin="0.539,0.403"/>
+
+        <Button Content="Lernen" HorizontalAlignment="Left" Margin="458,64,0,0" VerticalAlignment="Top" Width="295" Height="150" Click="OpenLearning"/>
+
+        <Button Content="Karten" HorizontalAlignment="Left" Margin="70,64,0,0" VerticalAlignment="Top" Width="250" Height="50" Click="OpenCardCollection"/>
+        <Button Content="Kategorien" HorizontalAlignment="Left" Margin="70,130,0,0" VerticalAlignment="Top" Width="250" Height="50" Click="OpenCategories"/>
+        <Button Content="Level" HorizontalAlignment="Left" Margin="70,196,0,0" VerticalAlignment="Top" Width="250" Height="50" Click="OpenLevels"/>
+
+        <Rectangle Fill="#FF4AEC51" Height="20" Width="200" Margin="518,262,74,0" Stroke="Black" VerticalAlignment="Top"/>
+        <Rectangle Fill="#FF8CC935" Height="20" Width="200" Margin="518,292,74,0" Stroke="Black" VerticalAlignment="Top"/>
+        <Rectangle Fill="#FFDFF312" Height="20" Width="200" Margin="518,322,74,0" Stroke="Black" VerticalAlignment="Top"/>
+        <Rectangle Fill="#FFE4AA10" Height="20" Width="200" Margin="518,352,74,0" Stroke="Black" VerticalAlignment="Top"/>
+        <Rectangle Fill="#FFF34620" Height="20" Width="200" Margin="518,381,74,0" Stroke="Black" VerticalAlignment="Top"/>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="139" Margin="515,262,0,0" Stroke="Black" VerticalAlignment="Top" Width="3"/>
+        <TextBlock HorizontalAlignment="Left" Margin="476,262,0,0" TextWrapping="Wrap" Text="Level 1" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="476,292,0,0" TextWrapping="Wrap" Text="Level 2" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="476,322,0,0" TextWrapping="Wrap" Text="Level 3" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="476,352,0,0" TextWrapping="Wrap" Text="Level 4" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="476,382,0,0" TextWrapping="Wrap" Text="Level 5" VerticalAlignment="Top"/>
+        <Button HorizontalContentAlignment="left" VerticalContentAlignment="top" Content="Statistiken" HorizontalAlignment="Left" Margin="458,236,0,0" VerticalAlignment="Top" Width="295" Height="173" Background="{x:Null}" FontWeight="Bold" FontStyle="Italic" TextOptions.TextFormattingMode="Display" TextOptions.TextHintingMode="Fixed" RenderTransformOrigin="0.507,0.202" FontSize="16" Click="OpenStatistics"/>
+        
+        <TextBlock HorizontalAlignment="Left" Margin="70,383,0,0" TextWrapping="Wrap" Text="Zuletzt gelernt: xx.xx.xxxx (Lvl x)" VerticalAlignment="Top" Width="250" FontSize="14" FontStyle="Italic" FontWeight="Bold"/>
+        <RichTextBox HorizontalAlignment="Left" Height="121" Margin="70,262,0,0" VerticalAlignment="Top" Width="250" Block.LineHeight="3.5" IsReadOnly="True">
+            <FlowDocument>
+                <Paragraph>
+                    <Run FontWeight="Bold">Level-System</Run>
+                </Paragraph>
+                <Paragraph>
+                    <Run FontStyle="Italic" FontWeight="DemiBold">Level 1:</Run>
+                    <Run>Jeden Tag lernen</Run>
+                </Paragraph>
+                <Paragraph>
+                    <Run FontStyle="Italic" FontWeight="DemiBold">Level 2:</Run>
+                    <Run>Alle 3 Tage lernen</Run>
+                </Paragraph>
+                <Paragraph>
+                    <Run FontStyle="Italic" FontWeight="DemiBold">Level 3:</Run>
+                    <Run>Alle 5 Tage lernen</Run>
+                </Paragraph>
+                <Paragraph>
+                    <Run FontStyle="Italic" FontWeight="DemiBold">Level 4:</Run>
+                    <Run>Alle 7 Tage lernen</Run>
+                </Paragraph>
+                <Paragraph>
+                    <Run FontStyle="Italic" FontWeight="DemiBold">Level 5:</Run>
+                    <Run>Alle 10 Tage lernen</Run>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

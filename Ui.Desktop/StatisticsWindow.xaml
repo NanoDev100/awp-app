@@ -1,0 +1,60 @@
+﻿<Window x:Class="De.HsFlensburg.LernkartenApp060.Ui.Desktop.StatisticsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModel="clr-namespace:De.HsFlensburg.LernkartenApp060.Logic.Ui.ViewModels;assembly=Logic.Ui"
+        xmlns:local="clr-namespace:De.HsFlensburg.LernkartenApp060.Ui.Desktop"
+        mc:Ignorable="d"
+        Title="StatisticsWindow" Height="450" Width="800">
+    <!--Objekt für Binding erzeugen-->
+    <Window.DataContext>
+        <viewModel:StatisticsWindowViewModel/>
+    </Window.DataContext>
+    <ScrollViewer HorizontalScrollBarVisibility="Auto">
+        <Grid>
+
+            <Button Content="&lt;--" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="39"/>
+            <WrapPanel HorizontalAlignment="Right" Height="auto" VerticalAlignment="Top" Width="200" Background="#FFE2E2E2" Margin="0,50,10,0">
+                <Button Content="Kategrorie 1" Margin="0,0,0,0" Width="200" Height="50"/>
+                <Button Content="Kategrorie 2" Margin="0,0,0,0" Width="200" Height="50"/>
+                <Button Content="Kategrorie 3" Margin="0,0,0,0" Width="200" Height="50"/>
+                <Button Content="Kategrorie 4" Margin="0,0,0,0" Width="200" Height="50"/>
+                <Button Content="Kategrorie 5" Margin="0,0,0,0" Width="200" Height="50"/>
+                <Button Content="Kategrorie 6" Margin="0,0,0,0" Width="200" Height="50"/>
+                <Button Content="Kategrorie 7" Margin="0,0,0,0" Width="200" Height="50"/>
+
+            </WrapPanel>
+            <WrapPanel HorizontalAlignment="Left" Height="auto" VerticalAlignment="Top" Width="200" Background="#FFE2E2E2" Margin="10,50,0,0">
+                <Label>Anzahl aller Karten:</Label>
+                <Label>Anzahl der Kategorien:</Label>
+            </WrapPanel>
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Height="300" VerticalAlignment="Top" Width="150" Background="#FFE2E2E2" Margin="0,50,0,0">
+                <StackPanel Orientation="Horizontal">
+                    <Label>Kategorie 1</Label>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label></Label>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label>Karten Gesamt:</Label>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label>Karten in Level 1:</Label>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label>Karten in Level 2:</Label>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label>Karten in Level 3:</Label>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label>Karten in Level 4:</Label>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label>Karten in Level 5:</Label>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Window>
